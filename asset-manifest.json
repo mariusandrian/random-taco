@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/random-taco/static/css/main.0487316e.chunk.css",
+    "main.js": "/random-taco/static/js/main.bce6ab1c.chunk.js",
+    "main.js.map": "/random-taco/static/js/main.bce6ab1c.chunk.js.map",
+    "runtime-main.js": "/random-taco/static/js/runtime-main.afecf583.js",
+    "runtime-main.js.map": "/random-taco/static/js/runtime-main.afecf583.js.map",
+    "static/js/2.ec6ee4b5.chunk.js": "/random-taco/static/js/2.ec6ee4b5.chunk.js",
+    "static/js/2.ec6ee4b5.chunk.js.map": "/random-taco/static/js/2.ec6ee4b5.chunk.js.map",
+    "index.html": "/random-taco/index.html",
+    "precache-manifest.db868a62ec05a5f25f09a0c77deb74d5.js": "/random-taco/precache-manifest.db868a62ec05a5f25f09a0c77deb74d5.js",
+    "service-worker.js": "/random-taco/service-worker.js",
+    "static/css/main.0487316e.chunk.css.map": "/random-taco/static/css/main.0487316e.chunk.css.map",
+    "static/js/2.ec6ee4b5.chunk.js.LICENSE.txt": "/random-taco/static/js/2.ec6ee4b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afecf583.js",
+    "static/js/2.ec6ee4b5.chunk.js",
+    "static/css/main.0487316e.chunk.css",
+    "static/js/main.bce6ab1c.chunk.js"
+  ]
+}
